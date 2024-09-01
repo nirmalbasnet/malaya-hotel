@@ -1,0 +1,101 @@
+.form-error, .delete-blog-category-error{
+    color: maroon;
+    font-weight: 600;
+}
+
+.blog-categories-ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.blog-categories-ul li{
+    display: inline-block;
+    margin: 0;
+    padding: 10px 20px;
+    background: #ddd;
+    margin-bottom: 5px;
+}
+
+.delete-blog-category{
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.group-span-filestyle {
+    background: #9A9AA1;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 0 4px 4px 0;
+}
+
+.help-block{
+    color: maroon;
+    font-weight: 600;
+}
+
+.action-td{
+    width: 150px !important;
+}
+
+.admin-profile-edit-form{
+   padding: 20px;
+}
+
+.admin-profile-edit-form div.row{
+    height: 80px;
+}
+
+.admin-profile-edit-form label{
+    font-weight: 900;
+}
+
+.admin-profile-edit-form input{
+    border: none;
+    background: transparent !important;
+}
+
+#admin-profile-edit-icon{
+    display: block;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.ai{
+    float: left;
+    display: none;
+}
+
+.ajs-header{
+    display: none !important;
+}
+
+.unread-feedback-count{
+    background: #2962ff;
+    color: #fff;
+    font-weight: 700;
+    padding: 1px 4px;
+    border-radius: 30%;
+}
+
+form span.validation-error{
+    color: maroon;
+    font-weight: bolder;
+}
+
+span.req{
+    color: maroon;
+    font-weight: bolder;
+}
+
+div.response-message{
+    height: 50px;
+    font-size: 15px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.response-message div.close-response-message{
+    cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.logo-initial{
+    background: #f62d51;
+    color: #fff;
+    padding: 6px 12px;
+    font-weight: 900;
+    font-size: 15px;
+    border-radius: 30%;
+}
+
+.create-new-tab{
+    margin-top: 30px;
+}
+
+.form-error{
+    color: #dc3545;
+}
+
+.table-action{
+    display: block;
+}
